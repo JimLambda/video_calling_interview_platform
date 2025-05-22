@@ -21,6 +21,7 @@
     "react": "^18",
     "react-dom": "^18",
     "saas_code_editor": "file:",
+    "svix": "^1.63.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"
   },
